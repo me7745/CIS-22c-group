@@ -10,6 +10,7 @@ This cpp file includes the function definitions of the function prototype
 that is defined in function.h
 */
 
+
 void prelimDisplay()
 {
 	cout << "This program is designed to store info on the champions from" << endl;
